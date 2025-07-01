@@ -70,11 +70,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=knowAshish&theme=onedark" />
-</p>
-
 ---
 
 ### 📅 Weekly Development Breakdown
