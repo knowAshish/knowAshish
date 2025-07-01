@@ -80,7 +80,7 @@
 ---
 
 <p align="center">
-  🙏 **Thanks for visiting my profile! Feel free to connect or reach out!**
+  🙏Thanks for visiting my profile! Feel free to connect or reach out!
 </p>
 
 
