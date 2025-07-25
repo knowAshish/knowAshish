@@ -64,7 +64,7 @@
 ### 🌐 Connect with me
 <p align="left">
 <a href="https://https://www.linkedin.com/in/ashish-patel-85479117b/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-<a href="https://https://x.com/knowashish97" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
+<a href="https://"https://x.com/knowashish97" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
 <a href="https://medium.com/@knowashish1997" target="blank"><img align="center" src="https://skillicons.dev/icons?i=medium" alt="medium" /></a>
 </p>
 
@@ -82,5 +82,3 @@
 <p align="center">
   🙏Thanks for visiting my profile! Feel free to connect or reach out!
 </p>
-
-
